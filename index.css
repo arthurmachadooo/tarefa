@@ -1,0 +1,55 @@
+header{
+    font-size: 40px;
+    color: #EA8D4D;
+    display: flex;
+    margin: 0% 0% 0% 0%;
+    background-color: #EBD46E;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+ h1{
+color: yellow;
+align-items: center;
+justify-content: center;
+text-align: center;
+ 
+ 
+}
+p{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+body{
+    background-color: #EBB66E;
+    height: 100vh;
+ 
+}
+footer{
+    margin-top: 500px;
+    padding: 0;
+    display: flex;
+    background-color: #EBD46E;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+ 
+a {
+    text-align: center;
+    color: yellow;
+}
+.imgs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+ 
+#links {
+    text-align: center;
+}

@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(61, 115, 115);
+}
+header{
+    color: rgb(77, 113, 161);
+    background-color: aqua;
+    font-size: 50px;
+    margin: 0% 0% 0% 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+p{
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: blue;
+}
+a{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+h2{
+    color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+form{
+    color: rgb(253, 253, 253);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+footer{
+    font-size: 15px;
+    color: rgb(37, 37, 159);
+    margin-top: 500px;
+    padding: 0;
+    display: flex;
+    background-color: #6ebdeb;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
